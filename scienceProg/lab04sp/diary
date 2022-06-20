@@ -1,0 +1,32 @@
+>> diary
+>> hello woerl
+error: 'hello' undefined near line 1, column 1
+>> sdafr
+error: 'sdafr' undefined near line 1, column 1
+>> 2134
+ans = 2134
+>> 12334
+ans = 12334
+>> 1
+ans = 1
+>> 123
+ans = 123
+>> 
+>> 123
+ans = 123
+>> 123
+ans = 123
+>> 12
+ans = 12
+>> 3123
+ans = 3123
+>> 12
+ans = 12
+>> 3diary on
+error: parse error:
+
+  syntax error
+
+>>> 3diary on
+         ^
+>> diary on
